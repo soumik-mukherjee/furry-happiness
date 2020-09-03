@@ -1,6 +1,6 @@
 {
   "name": "@soumik-mukherjee/furry-happiness",
-  "version": "0.0.4-0",
+  "version": "0.0.5-0",
   "description": "A sample backend project with amplify, that copiles to a library module",
   "main": "dist/furry-happiness.js",
   "module": "dist/furry-happiness.esm.js",
