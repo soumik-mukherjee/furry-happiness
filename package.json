@@ -5,11 +5,12 @@
   "main": "dist/furry-happiness.js",
   "module": "dist/furry-happiness.esm.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@aws-amplify/api": "^3.1.21",
     "@aws-amplify/core": "^3.4.4"
   },
+  "publishConfig": { "registry": "https://yarn.pkg.github.com/" },
   "devDependencies": {
     "rimraf": "^3.0.2",
     "rollup": "^2.26.9"
