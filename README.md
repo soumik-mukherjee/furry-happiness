@@ -7,3 +7,5 @@ Modify the folloiwng files:
 - amplify/backend/backend-config.json
 - amplify/backend/dynamoDatasource/CreditCardsOffersDataSource/template.json
 - amplify/backend/dynamoDatasource/CreditCardsOffersDataSource/parameter.json
+
+
