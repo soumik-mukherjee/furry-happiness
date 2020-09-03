@@ -1,14 +1,12 @@
 {
   "name": "@soumik-mukherjee/furry-happiness",
-  "version": "0.0.3",
+  "version": "0.0.4-0",
   "description": "A sample backend project with amplify, that copiles to a library module",
   "main": "dist/furry-happiness.js",
   "module": "dist/furry-happiness.esm.js",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "rimraf": "^3.0.2",
     "rollup": "^2.26.9"
